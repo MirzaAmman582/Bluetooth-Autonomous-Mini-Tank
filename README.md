@@ -1,4 +1,5 @@
 # Bluetooth-Operated Mini Tank: Autonomous & Manual Control
+![Mini Tank Preview](tank_preview.jpg)
 
 ## 📌 Project Overview
 A multi-modal robotic platform capable of real-time manual operation via Bluetooth and fully autonomous navigation. The system integrates sensor fusion (Ultrasonic & Photoresistors) with a differential drive locomotion system to navigate complex environments.
